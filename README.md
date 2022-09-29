@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LouisMichelin
 - 👀 As of today, I’m interested in becoming a Front Web Developer.
-- 🌱 I’m currently learning JavaScript React while improving my CSS & HTML.
-- 💞️ I’m looking to collaborate on - .
+- 🌱 I’m currently learning JavaScript React while improving my CSS & HTML through OpenClassrooms.
+- 💞️ I'm actually a beginner in JS, but I can tell that I'll be looking to collaborate on any project once graduated !
 - 📫 How to reach me ; well, let's start through GitHub !
 
 <!---
