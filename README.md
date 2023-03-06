@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LouisMichelin
-- 👀 As of today, I’m interested in becoming a Front Web Developer.
-- 🌱 I’m currently learning JavaScript React while improving my CSS & HTML through OpenClassrooms.
-- 💞️ I'm actually a beginner in JS, but I can tell that I'll be looking to collaborate on any project once graduated !
-- 📫 How to reach me ; well, let's start through GitHub !
+- 👋 Hi, I’m @LouisMichelin - a French developer fluent in English.
+- 👀 As of today, I’m interested in becoming a Front-end Web Developer.
+- 🌱 I'm currently learning JavaScript React through a graduating formation from OpenClassrooms.
+- 💞️ I'm improving myself day after day, while enjoying it more and more.
+- 📫 So, feel free to contact me through GitHub for any project !
 
 <!---
 LouisMichelin/LouisMichelin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
